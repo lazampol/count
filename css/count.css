@@ -1,0 +1,91 @@
+h1, h2{
+	font-family: 'Meddon', cursive;
+}
+
+p{
+	font-family: 'Old Standard TT', serif;
+	font-size: 22px;
+	margin: 10px 60px 0 30px;
+	text-align: justify;
+}
+
+body{
+	margin: 0;
+}
+
+header{
+	text-align: center;
+	background-color: #203938;
+}
+
+header img{
+	max-width: 700px;
+    max-height: 450px;
+    border-radius: 100%;
+    margin: 20px 0 20px 0;
+    border: solid 10px hsla(336,27%,59%,.5); 
+
+
+}
+
+header h1{
+	color: #d0c7bac4;
+	font-size: 55px;
+	padding-bottom: 20px;
+	margin: 0px;
+	text-shadow: 2px 2px 3px #8a4762;
+	
+}
+span{
+	font-style: italic;
+	font-size: 40px;
+}
+
+
+body main{
+	background-color: #213a388a;
+	color:#132d2b;
+}
+
+h2{
+	margin: 0;
+	padding: 30px 0 15px 50px;
+	font-size: 35px;
+	text-shadow: 2px 2px 3px #291a20;
+	color: #8e5772;
+
+}
+body img{
+	max-width: 700px;
+	margin-top: 20px;
+	max-height: 400px;
+}
+
+.legenda{
+	font-size: 18px;
+	font-style: italic;
+	text-align: center;
+	margin: 0 0 20px 0;
+	color:#132d2b96;
+}
+
+.lista{
+	text-align: left;
+	font-family: 'Old Standard TT', serif;
+	font-size: 22px;
+	margin-left: 40px;
+}
+
+div{
+	text-align: center;
+}
+
+.foot{
+	background-color: #203938;
+	color:#536564;
+	border: solid 20px #203938;
+
+}
+
+
+
